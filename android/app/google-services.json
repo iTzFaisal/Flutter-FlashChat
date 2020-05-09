@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658953841494",
+    "firebase_url": "https://flash-chat-d7b5b.firebaseio.com",
+    "project_id": "flash-chat-d7b5b",
+    "storage_bucket": "flash-chat-d7b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658953841494:android:d5388f456e3082c1f984f7",
+        "android_client_info": {
+          "package_name": "com.faisal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658953841494-0i6vrlqo5uvrg87a7t2f2vjsb8hfrrt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2T0BS-Qf6nKuI3yud-h1lgYU9K0VbFvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658953841494-0i6vrlqo5uvrg87a7t2f2vjsb8hfrrt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
